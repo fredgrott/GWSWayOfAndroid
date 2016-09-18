@@ -28,6 +28,18 @@ import android.os.Bundle;
  * displaying a simple text string via TextView which was declared
  * in the xml file found in res/layouts/hello_droids.xml
  *
+ * in the AndroidManifest its the pairing of
+ * <code>
+ *   <intent-filter>
+ *      <action android:name="android.intent.action.MAIN" />
+ *      <category android:name="android.intent.category.LAUNCHER" />
+ *
+ *   </intent-filter>
+ * </code>
+ *
+ * an action and category that tells the Android Framework that this app
+ * has an activity as its main entry point.
+ *
  * Note, to get the newer features of toolbar, ext you will use the
  * AppCompatActivity from the support-v4 package which does subclass
  * the Activity class.
