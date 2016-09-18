@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloDroids</string>
+    <string name="hello_world"><b>Hello, <i>World!</i></b></string>
+
 </resources>
