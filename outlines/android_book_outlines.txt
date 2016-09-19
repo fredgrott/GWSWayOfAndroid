@@ -1,0 +1,126 @@
+Android Book Outlines
+
+Challenge: create a book series that is update-able as the Android SDK and support libraries update
+
+Code demos should be mappable to the Android SDK package names, do not separate 
+by book title but keep it one code folder
+
+BeginningWayOfAndroid Outline
+
+Because this is an introduction to android I not only have to cover the beginner basics 
+but I have to touch on the hot areas such as opengl, webview, keychains, device admin, 
+sensors, graphics, hardware
+
+Chapter 0: What Laptop and Android Device to Buy
+Chapter 1: Introduction to Android
+Chapter 2: Android Components:Application, Activities, Fragments
+Chapter 3: SharedPreferences
+Chapter 4: Get Social: Accounts
+Chapter 5: WebView
+Chapter 6: Graphics
+Chapter 7: OpenGL
+Chapter 8: Animation
+Chapter 9: Keychain Device Admin
+Chapter10: Hardware:Sensors, USB, Bluetooth, Camera, fingerprint
+Chapter11: Digital Rights
+Chapter12: DataBinding
+Chapter13: Gesture
+Chapter14: Location
+Chapter15: Media
+Chapter16: Services and Providers
+Chapter17: Renderscript
+Chapter18: ActivityFragment Animation:Transitions
+Chapter19: Google's Material Design
+Chapter20: Instrument and UnitTesting
+Chapter21: MultiWindow
+Chapter22: Jobs API
+Chapter23: Simple Backend Platforms
+Chapter24: Networking: Volley and bandwidth
+A: how To Read a stack trace
+B: debugging
+C: app performance profiling
+D: How to get developer answers to questions online
+E: Gradle Tips and Tricks
+F: Screen Resolution Mapping for Graphics Artists, ie to get your Canvas sizes
+G: FONT Mappings 
+H: OnLine Resources
+I: Git Tips and Tricks
+J: User Interface Design Resources
+
+*SHIT! Its a 1200 to 1700 page book. But if I break it apart into two volumes it does not have the same high appeal and impact..
+well, okay 1500 pages it is..
+
+
+AdvanceWayOfAndroid OutLine
+
+Chapter 0:  Organizing Your Builds
+Chapter 1:  App Architecture Patterns
+Chapter 2:  Memory Leak Detection
+Chapter 3:  DI: Dagger
+Chapter 4:  RxJava
+Chapter 5:  Agera
+Chapter 6:  Annotation Processing
+Chapter 7:  Aspect Weaving
+Chapter 8:  Kotlin
+Chapter 9:  Android Auto
+Chapter10:  Android TV
+Chapter11:  Android Watch
+Chapter12:  Android NDK
+Chapter13:  ContinousIntegration Servers
+Chapter14:  AutoValue
+Chapter15:  Lambdas and Lambda Tricks
+Chapter16:  Android Build Tooling: Jack and Jill
+Chapter17: Android Graphics Pipeline
+Chapter18: Android Kernal Internals
+Chapter19: Android Security: Lock your app down
+Chapter20: Android Support Libraries
+Chapter21: Google Services APIs
+Chapter22: Customizing Views, layouts
+Chapter23: Backporting
+Chapter24: Threading
+A: Java Programming Language Resources
+B: Dagger Resources
+C: Agera  Resources
+D: Aspect Weaving Resources
+E: Annotation Processing Resources
+F: Kotlin Resources
+G: AutoValue Resources
+H: Android Security Resources
+J: Dalvik and ART Internals
+
+Than code samples need to have the strcuture of:
+
+app
+accounts
+accessiblity
+animation
+appwidget
+bluetooth
+content
+database
+databinding
+drm
+gesture
+graphics
+hardware
+inputmethodservice
+location
+media
+mtp
+net
+opengl
+os
+preference
+providers
+renderscript
+security
+transition
+view
+volley
+webview
+widget
+
+
+
+
+
