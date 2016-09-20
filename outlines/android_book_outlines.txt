@@ -53,40 +53,42 @@ well, okay 1500 pages it is..
 
 AdvanceWayOfAndroid OutLine
 
-Chapter 0:  Organizing Your Builds
-Chapter 1:  App Architecture Patterns
-Chapter 2:  Memory Leak Detection
-Chapter 3:  DI: Dagger
-Chapter 4:  RxJava
-Chapter 5:  Agera
-Chapter 6:  Annotation Processing
-Chapter 7:  Aspect Weaving
-Chapter 8:  Kotlin
-Chapter 9:  Android Auto
-Chapter10:  Android TV
-Chapter11:  Android Watch
-Chapter12:  Android NDK
-Chapter13:  ContinousIntegration Servers
-Chapter14:  AutoValue
-Chapter15:  Lambdas and Lambda Tricks
-Chapter16:  Android Build Tooling: Jack and Jill
-Chapter17: Android Graphics Pipeline
-Chapter18: Android Kernal Internals
-Chapter19: Android Security: Lock your app down
-Chapter20: Android Support Libraries
-Chapter21: Google Services APIs
-Chapter22: Customizing Views, layouts
-Chapter23: Backporting
-Chapter24: Threading
+
+Chapter 0:  App Architecture Patterns
+Chapter 1:  Memory Leak Detection
+Chapter 2:  DI: Dagger
+Chapter 3:  RxJava
+Chapter 4:  Agera
+Chapter 5:  Annotation Processing
+Chapter 6:  Aspect Weaving
+Chapter 7:  Kotlin
+Chapter 8:  Android Auto
+Chapter 9:  Android TV
+Chapter10:  Android Watch
+Chapter11:  Android NDK
+Chapter12:  ContinousIntegration Servers
+Chapter13:  AutoValue
+Chapter14:  Lambdas and Lambda Tricks
+Chapter15:  Android Build Tooling: Jack and Jill
+Chapter16: Android Graphics Pipeline
+Chapter17: Android Kernal Internals
+Chapter18: Android Security: Lock your app down
+Chapter19: Android Support Libraries
+Chapter20: Google Services APIs
+Chapter21: Customizing Views, layouts
+Chapter22: Backporting
+Chapter23: Threading
 A: Java Programming Language Resources
 B: Dagger Resources
-C: Agera  Resources
+C: Agera and RxJava Resources
 D: Aspect Weaving Resources
 E: Annotation Processing Resources
 F: Kotlin Resources
 G: AutoValue Resources
 H: Android Security Resources
-J: Dalvik and ART Internals
+I: Dalvik and ART Internals
+J: Organizing Your Builds
+K: CODE QA
 
 Than code samples need to have the strcuture of:
 

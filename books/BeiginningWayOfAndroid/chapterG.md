@@ -1,0 +1,1 @@
+# Screen Resolution Mapping For Graphics Artists

@@ -1,0 +1,43 @@
+# Summary
+
+* [Chapter 0, Introduction to Android](chapter0.md)
+* [Chapter 1, Android Components: Application, Activities, Fragments](chapter1.md)
+* [Chapter 2, SharedPreferences](chapter2.md)
+* [Chapter 3, Get Social: Accounts](chapter3.md)
+* [Chapter 4, WebView](chapter4.md)
+* [Chapter 5, Graphics](chapter5.md)
+* [Chapter 6, openGL](chapter6.md)
+* [Chapter 7, Animation](chapter7.md)
+* [Chapter 8, Keychain and Device Admin](chapter8.md)
+* [Chapter 9, Hardware: Sensors, USB, Bluetooth, Camera, Fingerprint](chapter9.md)
+* [Chapter 10, Digital Rights](chapter10.md)
+* [Chapter 11, RecylerView and Data Binding](chapter11.md)
+* [Chapter 12, Gstures](chapter12.md)
+* [Chapter 13, Location](chapter13.md)
+* [Chapter 14, Media](chapter14.md)
+* [Chapter 15, Services and Providers](chapter15.md)
+* [Chapter 16, Renderscript](chapter16.md)
+* [Chapter 17, Activity-Fragment Animation Transitions](chapter17.md)
+* [Chapter 18, Google's Material Design](chapter18.md)
+* [Chapter 19, Instrumented and UnitTesting](chapter19.md)
+* [Chapter 20, MultiWindow](chapter20.md)
+* [Chapter 21, Jobs Api](chapter21.md)
+* [Chapter 22, Simple Backend Plattforms](chapter22.md)
+* [Chapter 23, Networking: Volley and Bandwidth](chapter23.md)
+* [Chapter A: Buying A Laptop and Android Phone](chapterA.md)
+* [Chapter B: How To Read A stacktrace](chapterB.md)
+* [Chapter C: Debugging](chapterC.md)
+* [Chapter D: App Performacne Profiling](chapterD.md)
+* [Chapter E: How To Get Answers OnLine](chapterE.md)
+* [Chapter F: Gradle Tips and Tricks](chapterF.md)
+* [Chapter G: Screen Resolution Mapping For Graphics Artists](chapterG.md)
+* [Chapter H: FONT mappings](chapterH.md)
+* [Chapter I: onLine Resources](chapterI.md)
+* [Chapter J: Git Tips and Tricks](chapterJ.md)
+* [Chapter K: User Interface Design Resources](chapterK.md)
+* [Chapter L: Android Studio Tips and Tricks](chapterL.md)
+
+
+
+
+
